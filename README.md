@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ravi
+- 👀 I’m interested in AI field.
+- 🌱 I’m currently learning ML and Python.
